@@ -1,0 +1,21 @@
+{
+	"name": "ieeefeeds",
+	"description": "ieee feeds.",
+	"author": "Sireesha Beeram <s.beeram@ieee.org>",
+	"version": "2.0.0",
+	"dependencies": {
+		"config": "^1.30.0",
+		"dateformat": "^3.0.3",
+		"elasticsearch": "^14.2.1",
+		"feedparser-promised": "*",
+		"htmlparser2": "^3.9.2",
+		"http-aws-es": "^4.0.0",
+		"jsdom": "^11.7.0",
+		"node-datetime": "^2.0.6",
+		"request": "*"
+	},
+	"license": "IEEE",
+	"engines": {
+		"node": "*"
+	}
+}

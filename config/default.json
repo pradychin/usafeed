@@ -1,0 +1,31 @@
+ {
+    "spectrumFeed": {
+          "url": "http://spectrum.ieee.org/rss/fulltext",
+          "src": "ieeespectrum"
+    }
+    ,
+    "usaFeedService": {
+      "url": "http://insight.ieeeusa.org/articles/feed/",        
+      "src": "ieeeusainsights"
+    }
+    ,
+    "transmitterFeed": {
+      "url": "http://transmitter.ieee.org/feed/",        
+      "src": "ieeetransmitter"
+    }
+    ,
+    "spotlightFeedService": {
+      "url": "http://sites.ieee.org/spotlight/feed/",        
+      "src": "ieeespotlight"
+    }
+    ,
+    "ieeetvFeedService": {
+      "url": "https://ieeetv.ieee.org/rss/ieeetv-specials.rss",        
+      "src": "ieeetvspecials"
+    }
+    ,
+    "instituteFeedService": {
+      "url": "http://feeds.feedburner.com/ieee/the-institute?format=xml",        
+      "src": "ieeeinstitute"
+    }
+ }
